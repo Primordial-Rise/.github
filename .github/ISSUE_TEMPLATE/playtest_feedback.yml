@@ -1,0 +1,68 @@
+name: Playtest feedback
+description: Tell us how a session felt. Short notes are welcome.
+title: "[Playtest] "
+labels: ["playtest"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for playing! Honest impressions help most, good or bad. If something was plainly broken, a [bug report](https://github.com/Primordial-Rise/.github/issues/new?template=bug_report.yml) is better.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where did you play?
+      options:
+        - Browser demo (desktop)
+        - Browser demo (phone or tablet)
+        - Windows desktop build
+        - Linux desktop build
+        - Other (say below)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Game version or build
+      placeholder: "0.2.0"
+  - type: dropdown
+    id: length
+    attributes:
+      label: How long did you play?
+      options:
+        - Under 10 minutes
+        - 10 to 30 minutes
+        - 30 to 60 minutes
+        - Over an hour
+        - Several sessions
+  - type: dropdown
+    id: fun
+    attributes:
+      label: How much fun was it?
+      options:
+        - "5: loved it"
+        - "4: good"
+        - "3: okay"
+        - "2: not much"
+        - "1: not at all"
+    validations:
+      required: true
+  - type: textarea
+    id: liked
+    attributes:
+      label: What did you enjoy?
+  - type: textarea
+    id: confusing
+    attributes:
+      label: What was confusing or frustrating?
+      description: Anything you did not understand, or that felt unfair or slow.
+  - type: textarea
+    id: lineage
+    attributes:
+      label: How far did your lineage get?
+      description: Highest level and generation, and whether you mostly steered or let it forage.
+      placeholder: Level 3, generation 4, mostly hands-off.
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or recordings
+      description: Optional. Drag files in here.

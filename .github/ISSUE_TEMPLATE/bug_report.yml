@@ -1,0 +1,70 @@
+name: Bug report
+description: Something in Primordial Rise is broken or behaves wrongly.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. Please do **not** report security problems here: follow the [security policy](https://github.com/Primordial-Rise/.github/blob/main/SECURITY.md) instead. Leave out passwords, tokens and other private details.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What went wrong, and what did you expect to happen instead?
+      placeholder: My creature walked off the board edge and disappeared instead of stopping.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we make it happen again?
+      placeholder: |
+        1. Start a new world
+        2. Steer the creature to the top edge
+        3. Keep pressing up
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where were you playing?
+      options:
+        - Browser demo (desktop)
+        - Browser demo (phone or tablet)
+        - Windows desktop build
+        - Linux desktop build
+        - Other (say below)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Game version or build
+      description: Shown in the game or the download name, if you know it.
+      placeholder: "0.2.0"
+  - type: input
+    id: device
+    attributes:
+      label: Device, OS and browser
+      placeholder: Windows 11, Chrome 131 / Pixel 7, Chrome / Ubuntu 24.04
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often does it happen?
+      options:
+        - Every time
+        - Sometimes
+        - Once so far
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots, recordings or logs
+      description: Drag files in here. A screenshot of the moment helps a lot.
+  - type: checkboxes
+    id: save
+    attributes:
+      label: Saves
+      options:
+        - label: I lost progress or my save looks wrong because of this

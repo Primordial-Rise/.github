@@ -1,0 +1,40 @@
+name: Feature idea
+description: Suggest something new for Primordial Rise.
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas are welcome. We read every one, though we cannot promise to build them.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would it add or fix?
+      description: The moment in play where you wanted this.
+      placeholder: When I come back after a day, I cannot tell what my lineage did while I was away.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: How it might work. Sketches and mock-ups are welcome.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Creatures and evolution
+        - Eggs and generations
+        - The forest and the world
+        - Controls and interface
+        - Phone and browser
+        - Desktop
+        - Something else
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Anything else you considered?

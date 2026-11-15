@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/Primordial-Rise/.github/security/advisories/new
+    about: Please report security problems privately, never in a public issue.
+  - name: Getting help
+    url: https://github.com/Primordial-Rise/.github/blob/main/SUPPORT.md
+    about: Where to ask for help and how to reach the team.

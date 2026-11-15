@@ -76,10 +76,10 @@ that casts real shadows.
 **Launching soon:** a free browser demo will be at
 [primordial-rise.play.danielstephenson.dev](https://primordial-rise.play.danielstephenson.dev/).
 
-## Coming to Steam Early Access
+## What's next
 
-Primordial Rise is planned for Steam Early Access on PC. No date yet: it will be
-announced here first.
+Primordial Rise is in active development, with desktop builds for Windows and Linux.
+News will be announced here first.
 
 ## Built with Strata
 

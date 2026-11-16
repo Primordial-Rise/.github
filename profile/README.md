@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Primordial-Rise/.github/main/profile/images/hero-respawn.gif" width="720" alt="A small blue creature lies starved on a mossy forest board while a countdown runs out, then hatches from the egg it laid as the next generation">
+  <img src="https://raw.githubusercontent.com/Primordial-Rise/.github/main/profile/images/hero-respawn.gif" width="720" alt="A small creature named Glimmerfin I wanders a mossy forest board on its last energy, starves while a countdown runs out, then hatches from the egg it laid as Glimmerfin II">
 </p>
 
 <p align="center"><em>A creature starves, waits out its countdown and hatches from its own egg as the next generation. Captured from the game.</em></p>
@@ -11,7 +11,7 @@
 ## What it is
 
 Primordial Rise is an evolution game. A small creature forages a forest board, eats berries
-for DNA, evolves, lays an egg carrying slightly mutated genes, and one day dies. Its egg
+for DNA, levels up, lays an egg carrying slightly mutated genes, and one day dies. Its egg
 hatches as the next generation. You can steer it, or step away and let it fend for itself.
 Over many generations the lineage changes, and those changes are what keep it alive.
 
@@ -33,7 +33,7 @@ with every egg.
 ### Eggs and generations
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Primordial-Rise/.github/main/profile/images/egg-and-respawn.png" width="800" alt="The game's forest board: a grey, starved creature in the lower right with a 'respawns in 3' badge, and a speckled egg waiting further up the board">
+  <img src="https://raw.githubusercontent.com/Primordial-Rise/.github/main/profile/images/egg-and-respawn.png" width="800" alt="The game's forest board: a grey, starved creature in the upper right corner with a 'respawns in 3' badge, and a speckled egg in a nest near the middle of the board">
 </p>
 <p align="center"><em>Death is not the end of a run: the creature waits out a short countdown and the lineage carries on from its egg.</em></p>
 
@@ -44,7 +44,7 @@ climbing, and so does the story of your line.
 ### A creature that forages on its own
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Primordial-Rise/.github/main/profile/images/foraging.gif" width="720" alt="A blue creature hops across the forest board on its own; a glowing outline shows the cells it can sense and a dotted trail leads it to a berry bush">
+  <img src="https://raw.githubusercontent.com/Primordial-Rise/.github/main/profile/images/foraging.gif" width="720" alt="A creature hops across the forest board on its own, eating berries; a glowing outline shows the cells it can sense and a dotted trail leads it to the next berry bush">
 </p>
 <p align="center"><em>Left alone, the creature looks for food within its sense range and walks to the best bush it can find.</em></p>
 
@@ -54,9 +54,9 @@ walk and goes after them. Come back later to see how it fared while you were awa
 ### On your desk and in your pocket
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Primordial-Rise/.github/main/profile/images/desktop-and-phone.png" width="800" alt="The game on a Windows desktop beside the same game in a phone browser, with an on-screen direction pad and an Evolve button">
+  <img src="https://raw.githubusercontent.com/Primordial-Rise/.github/main/profile/images/desktop-and-phone.png" width="800" alt="The browser build at desktop size beside the same moment at phone size: the creature Glimmerfin I foraging on the forest board, with an on-screen direction pad and a Level up button">
 </p>
-<p align="center"><em>The desktop build on Windows, and the browser build on a phone.</em></p>
+<p align="center"><em>The browser build at desktop size and on a phone.</em></p>
 
 The desktop builds run natively on Windows and Linux. The browser build fits a phone
 screen, with touch controls.
@@ -73,8 +73,12 @@ that casts real shadows.
 
 ## Play the demo
 
-**Launching soon:** a free browser demo will be at
+A free browser demo is live at
 [primordial-rise.play.danielstephenson.dev](https://primordial-rise.play.danielstephenson.dev/).
+Make an account, name your species, and come back later to see how your lineage fared.
+
+Players can share their creatures and compare them on the community site,
+[primordial-rise-community.play.danielstephenson.dev](https://primordial-rise-community.play.danielstephenson.dev/).
 
 ## What's next
 

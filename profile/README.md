@@ -15,7 +15,7 @@ for DNA, levels up, lays an egg carrying slightly mutated genes, and one day die
 hatches as the next generation. You can steer it, or step away and let it fend for itself.
 Over many generations the lineage changes, and those changes are what keep it alive.
 
-It runs on PC (Windows and Linux) and in the browser, on desktop and phone.
+The full game runs on PC (Windows and Linux); a free demo plays in the browser, on desktop and phone.
 
 ## Highlights
 
@@ -76,6 +76,8 @@ that casts real shadows.
 A free browser demo is live at
 [primordial-rise.play.danielstephenson.dev](https://primordial-rise.play.danielstephenson.dev/).
 Make an account, name your species, and come back later to see how your lineage fared.
+The demo ends when your lineage reaches the marsh. The full game, with the marsh, seasons,
+burrows, hunting and wild mates, runs on the desktop.
 
 Players can share their creatures and compare them on the community site,
 [primordial-rise-community.play.danielstephenson.dev](https://primordial-rise-community.play.danielstephenson.dev/).

@@ -75,9 +75,10 @@ that casts real shadows.
 
 A free browser demo is live at
 [primordial-rise.play.danielstephenson.dev](https://primordial-rise.play.danielstephenson.dev/).
-Make an account, name your species, and come back later to see how your lineage fared.
-The demo ends when your lineage reaches the marsh. The full game, with the marsh, seasons,
-burrows, hunting and wild mates, runs on the desktop.
+Press Play to start, with no account needed, name your species, and come back later to see how
+your lineage fared. When your lineage reaches the marsh, the demo plays on in the forest, in
+spring. The full game, with the marsh, seasons, burrows, hunting and wild mates, runs on the
+desktop.
 
 Players can share their creatures and compare them on the community site,
 [primordial-rise-community.play.danielstephenson.dev](https://primordial-rise-community.play.danielstephenson.dev/).
